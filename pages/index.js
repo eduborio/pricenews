@@ -1,7 +1,7 @@
 function Home() {
   return (
     <h1>
-      <a href="https://auth.mercadolivre.com.br/authorization?response_type=code&client_id=$CLIENT_ID&redirect_uri=$REDIRECT_URL">
+      <a href="https://auth.mercadolivre.com.br/authorization?response_type=code&client_id=3099633475788824&redirect_uri=https://procenews.vercel.app">
         Logar no ML
       </a>
     </h1>
